@@ -1,10 +1,8 @@
 {
-  "sha": "520ef1d4e375d3423d118dfca26e14c1395c261c",
+  "base_files": [
+    "21dac5f901913ef83239acf3167123d1 gamedata.sq_base"
+  ],
   "update_files": [
-    "78942bd8a77b287007573cd8967c986b installdxwebsetup.exe",
-    "f616c36ae50f67a3819565e3226a4628 vc_redist.x64.exe",
-    "1adbd1e6230712f137efef7b87ece1a4 fsgame.ltx",
-    "114137d0f593f692b0ad3dbfb751f832 gamedata.sq_base_configs",
     "b4990fdd10f13fcca5c2ecda4bd4733e bin\\dbghelp.dll",
     "c723875ae1c2822a1dc0edb3b28b50df bin\\discord-rpc.dll",
     "a38cc9c7b187272bbd1745171dda314c bin\\ffx_fsr2_api_dx11_x64.dll",
@@ -13,10 +11,11 @@
     "0729ac05b2d890e79548a795a8e3744d bin\\openal32.dll",
     "a7102674d30917d7fcc64c4868b7d626 bin\\xrEngine.exe",
     "22b5c5e1d5ab102cd0e928cb7206fe0c bin\\xrEngine.pdb",
+    "1adbd1e6230712f137efef7b87ece1a4 fsgame.ltx",
+    "114137d0f593f692b0ad3dbfb751f832 gamedata.sq_base_configs",
     "cbcff4c4b9e13f88cabf0281ad117838 gamedata.sq_patch",
-    "5d05c10e095ed9585d8b8d28007ec951 gamedata.sq_patch_2"
-  ],
-  "base_files": [
-    "21dac5f901913ef83239acf3167123d1 gamedata.sq_base"
+    "5d05c10e095ed9585d8b8d28007ec951 gamedata.sq_patch_2",
+    "78942bd8a77b287007573cd8967c986b installdxwebsetup.exe",
+    "f616c36ae50f67a3819565e3226a4628 vc_redist.x64.exe"
   ]
 }
