@@ -10,12 +10,12 @@
     "136de24166475e9cb0b19a853c30909d;136de24166475e9cb0b19a853c30909d bin\\ffx_fsr2_api_x64.dll",
     "2a3c88310f6c4873b58bf9b3126deb90;2a3c88310f6c4873b58bf9b3126deb90 bin\\nvngx_dlss.dll",
     "0729ac05b2d890e79548a795a8e3744d;0729ac05b2d890e79548a795a8e3744d bin\\openal32.dll",
-    "b4773a9d110763f76e4b83a0f282e604;b4773a9d110763f76e4b83a0f282e604 bin\\xrEngine.exe",
-    "d697cfd56ed28374ff9f2d5ce27c6702;d697cfd56ed28374ff9f2d5ce27c6702 bin\\xrEngine.pdb",
+    "a4a86cff5d2f85233f8e7945771b6f4c;a4a86cff5d2f85233f8e7945771b6f4c bin\\xrEngine.exe",
+    "0452c5ead39d2c54e3ddb92adf7cc792;0452c5ead39d2c54e3ddb92adf7cc792 bin\\xrEngine.pdb",
     "1adbd1e6230712f137efef7b87ece1a4;1adbd1e6230712f137efef7b87ece1a4 fsgame.ltx",
-    "9261f5b79cad2d221c0484b27c5b0fd9;9261f5b79cad2d221c0484b27c5b0fd9 gamedata.sq_base_configs",
+    "a8f11e8b965166164b292a9d9b94d161;a8f11e8b965166164b292a9d9b94d161 gamedata.sq_base_configs",
     "cbcff4c4b9e13f88cabf0281ad117838;cbcff4c4b9e13f88cabf0281ad117838 gamedata.sq_patch",
-    "f5ea5a837861f81612ee2cd51d2e7946;f5ea5a837861f81612ee2cd51d2e7946 gamedata.sq_patch_2",
+    "dfa647488bcfac9b0740becdcc961a8a;dfa647488bcfac9b0740becdcc961a8a gamedata.sq_patch_2",
     "78942bd8a77b287007573cd8967c986b;78942bd8a77b287007573cd8967c986b installdxwebsetup.exe",
     "f616c36ae50f67a3819565e3226a4628;f616c36ae50f67a3819565e3226a4628 vc_redist.x64.exe"
   ]
